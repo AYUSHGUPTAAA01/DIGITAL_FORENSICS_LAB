@@ -1,0 +1,13 @@
+Volatility 3 Framework 2.4.1
+
+# Running windows.pslist
+PID    PPID    ImageFileName    Offset          Threads    Session    Time
+---    ----    -------------    ------          -------    -------    ----
+4      0       System           0xe0000683...   142        ------     2024-10-24 10:00:01
+542    432     lsass.exe        0xe0000721...   8          0          2024-10-24 10:00:05
+2044   512     chrome.exe       0xe0000982...   24         1          2024-10-24 10:15:30
+4812   2044    powershell.exe   0xe0001024...   1          1          2024-10-24 10:45:12
+
+# Running windows.netscan
+Offset          Proto    Local Address    Foreign Address    State    PID
+0xe000108...    TCPv4    192.168.1.15:443 104.21.45.12:443   ESTAB    4812

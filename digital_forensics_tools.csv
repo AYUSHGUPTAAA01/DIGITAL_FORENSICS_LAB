@@ -1,0 +1,13 @@
+Category,Tool,Official Download Link
+Disk Imaging,FTK Imager,https://www.exterro.com/ftk-imager
+Disk Analysis,Autopsy,https://www.autopsy.com/download/
+Memory (RAM),Volatility 3,https://github.com/volatilityfoundation/volatility3
+Memory Capture,DumpIt,https://github.com/moonsols/DumpIt
+Metadata,ExifTool,https://exiftool.org/
+Email Analysis,Thunderbird,https://www.thunderbird.net/
+PGP/GPG,Gpg4win,https://www.gpg4win.org/
+Web Artifacts,NirSoft Suite,https://www.nirsoft.net/utils/index.html
+Mobile Forensics,Andriller,https://andriller.com/
+Timeline Analysis,Plaso,https://github.com/log2timeline/plaso
+Hash Comparison,HashDeep,https://github.com/jessek/hashdeep
+Incident Reconstruction,Timesketch,https://github.com/google/timesketch

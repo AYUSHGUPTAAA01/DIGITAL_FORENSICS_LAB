@@ -1,0 +1,20 @@
+# ExifTool Output - evidence.jpg
+File Name                       : evidence.jpg
+File Size                       : 2.4 MB
+Make                            : Apple
+Camera Model Name               : iPhone 13 Pro
+Create Date                     : 2024:10:24 12:30:15
+GPS Latitude                    : 40 deg 44' 54.36" N
+GPS Longitude                   : 73 deg 59' 8.5" W
+GPS Position                    : 40 deg 44' 54.36" N, 73 deg 59' 8.5" W
+
+# PDFinfo Output - report.pdf
+Title:          Confidential Strategy
+Author:         John Doe (Corporate HQ)
+Creator:        Microsoft® Word 2021
+Producer:       Microsoft® Word 2021
+CreationDate:   Mon Oct 21 09:00:12 2024
+ModDate:        Tue Oct 22 14:15:20 2024
+Tagged:         yes
+UserProperties: no
+Suspects:       no

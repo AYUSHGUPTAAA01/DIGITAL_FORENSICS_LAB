@@ -1,0 +1,16 @@
+Delivered-To: victim@example.com
+Received: from mail-relay.hacker.com (82.94.180.12) by mx.google.com ...
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hacker.com; s=google;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of sender@hacker.com designates 82.94.180.12 as permitted sender)
+Subject: Confidential PGP Message
+From: Sender <sender@hacker.com>
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+This is a confidential message for the investigation team.
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCAAdFiEE6B... [Signature Data]
+-----END PGP SIGNATURE-----

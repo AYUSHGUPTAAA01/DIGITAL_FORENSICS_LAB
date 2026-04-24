@@ -1,0 +1,13 @@
+# Generating initial hashes
+$ sha256sum config.sys > manifest.sha256
+$ cat manifest.sha256
+5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8  config.sys
+
+# Verifying after suspected tampering
+$ sha256sum -c manifest.sha256
+config.sys: FAILED
+sha256sum: WARNING: 1 computed checksum did NOT match
+
+# New hash of modified file
+$ sha256sum config.sys
+f2ca1bb6c7e907d06dafe4687e579fce76b3776e668822000024252123293424  config.sys

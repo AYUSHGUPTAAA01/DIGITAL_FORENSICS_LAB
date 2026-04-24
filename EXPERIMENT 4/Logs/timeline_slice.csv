@@ -1,0 +1,5 @@
+Date,Time,Timezone,Source,Event Type,User,Description
+2024-10-24,10:45:12,UTC,LNK,File Accessed,Admin,"Opened 'Top_Secret.docx' via shortcut"
+2024-10-24,10:46:05,UTC,MFT,File Deleted,Admin,"'Top_Secret.docx' moved to Recycle Bin"
+2024-10-24,10:48:30,UTC,LOG,Service Start,SYSTEM,"Windows Event Log service stopped"
+2024-10-24,10:50:00,UTC,REG,Key Modified,Admin,"HKCU\Software\Microsoft\Windows\CurrentVersion\Run added 'backdoor.exe'"

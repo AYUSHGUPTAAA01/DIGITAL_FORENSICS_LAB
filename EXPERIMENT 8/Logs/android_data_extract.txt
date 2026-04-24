@@ -1,0 +1,14 @@
+--- Android Extraction Log ---
+Device Model: Pixel 6a
+Android Version: 13
+Build Number: TQ3A.230805.001
+
+[Extraction Results]
+- SMS/MMS: 142 Total (12 Deleted)
+- Call Logs: 45 Entries
+- Contacts: 89 Entries
+- Browser History: Chrome (312 URLs)
+
+[Suspicious SQLite Entries - mmssms.db]
+Timestamp: 2024-10-24 11:30:05 | Type: Received | Body: "The files are uploaded. Wipe the device now."
+Timestamp: 2024-10-24 11:32:10 | Type: Sent     | Body: "Doing it now. Talk later."
